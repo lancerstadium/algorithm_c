@@ -1,0 +1,81 @@
+[
+{
+  "directory": "/home/lancer/item/algorithm_c",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-O3", "-std=c11", "-DNDEBUG", "-o", "build/.objs/c2_2/linux/x86_64/release/src/c2_2.c.o", "src/c2_2.c"],
+  "file": "src/c2_2.c"
+},
+{
+  "directory": "/home/lancer/item/algorithm_c",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-O3", "-std=c11", "-DNDEBUG", "-o", "build/.objs/c3_2/linux/x86_64/release/src/c3_2.c.o", "src/c3_2.c"],
+  "file": "src/c3_2.c"
+},
+{
+  "directory": "/home/lancer/item/algorithm_c",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-O3", "-std=c11", "-DNDEBUG", "-o", "build/.objs/c7_2/linux/x86_64/release/src/c7_2.c.o", "src/c7_2.c"],
+  "file": "src/c7_2.c"
+},
+{
+  "directory": "/home/lancer/item/algorithm_c",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-O3", "-std=c11", "-DNDEBUG", "-o", "build/.objs/c7_1/linux/x86_64/release/src/c7_1.c.o", "src/c7_1.c"],
+  "file": "src/c7_1.c"
+},
+{
+  "directory": "/home/lancer/item/algorithm_c",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-O3", "-std=c11", "-DNDEBUG", "-o", "build/.objs/c4_3/linux/x86_64/release/src/c4_3.c.o", "src/c4_3.c"],
+  "file": "src/c4_3.c"
+},
+{
+  "directory": "/home/lancer/item/algorithm_c",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-O3", "-std=c11", "-DNDEBUG", "-o", "build/.objs/c5_3/linux/x86_64/release/src/c5_3.c.o", "src/c5_3.c"],
+  "file": "src/c5_3.c"
+},
+{
+  "directory": "/home/lancer/item/algorithm_c",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-O3", "-std=c11", "-DNDEBUG", "-o", "build/.objs/c5_2/linux/x86_64/release/src/c5_2.c.o", "src/c5_2.c"],
+  "file": "src/c5_2.c"
+},
+{
+  "directory": "/home/lancer/item/algorithm_c",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-O3", "-std=c11", "-DNDEBUG", "-o", "build/.objs/c4_2/linux/x86_64/release/src/c4_2.c.o", "src/c4_2.c"],
+  "file": "src/c4_2.c"
+},
+{
+  "directory": "/home/lancer/item/algorithm_c",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-O3", "-std=c11", "-DNDEBUG", "-o", "build/.objs/c6_3/linux/x86_64/release/src/c6_3.c.o", "src/c6_3.c"],
+  "file": "src/c6_3.c"
+},
+{
+  "directory": "/home/lancer/item/algorithm_c",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-O3", "-std=c11", "-DNDEBUG", "-o", "build/.objs/c6_2/linux/x86_64/release/src/c6_2.c.o", "src/c6_2.c"],
+  "file": "src/c6_2.c"
+},
+{
+  "directory": "/home/lancer/item/algorithm_c",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-O3", "-std=c11", "-DNDEBUG", "-o", "build/.objs/c3_3/linux/x86_64/release/src/c3_3.c.o", "src/c3_3.c"],
+  "file": "src/c3_3.c"
+},
+{
+  "directory": "/home/lancer/item/algorithm_c",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-O3", "-std=c11", "-DNDEBUG", "-o", "build/.objs/c6_1/linux/x86_64/release/src/c6_1.c.o", "src/c6_1.c"],
+  "file": "src/c6_1.c"
+},
+{
+  "directory": "/home/lancer/item/algorithm_c",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-O3", "-std=c11", "-DNDEBUG", "-o", "build/.objs/c3_1/linux/x86_64/release/src/c3_1.c.o", "src/c3_1.c"],
+  "file": "src/c3_1.c"
+},
+{
+  "directory": "/home/lancer/item/algorithm_c",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-O3", "-std=c11", "-DNDEBUG", "-o", "build/.objs/c2_1/linux/x86_64/release/src/c2_1.c.o", "src/c2_1.c"],
+  "file": "src/c2_1.c"
+},
+{
+  "directory": "/home/lancer/item/algorithm_c",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-O3", "-std=c11", "-DNDEBUG", "-o", "build/.objs/c5_1/linux/x86_64/release/src/c5_1.c.o", "src/c5_1.c"],
+  "file": "src/c5_1.c"
+},
+{
+  "directory": "/home/lancer/item/algorithm_c",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-O3", "-std=c11", "-DNDEBUG", "-o", "build/.objs/c4_1/linux/x86_64/release/src/c4_1.c.o", "src/c4_1.c"],
+  "file": "src/c4_1.c"
+}]
